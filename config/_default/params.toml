@@ -6,3 +6,4 @@ article.showBreadcrumbs = true
 article.showHeadingAnchors = true
 article.showTableOfContents = true
 article.showPagination = true
+autoSwitchAppearance =false
