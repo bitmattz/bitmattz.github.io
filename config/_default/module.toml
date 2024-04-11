@@ -1,5 +1,5 @@
 [[imports]]
 path = "github.com/jpanther/congo/v2"
 
-baseURL = "https://your_domain.com/"
+baseURL = "https://bitmattz.github.io/"
 languageCode = "en"
