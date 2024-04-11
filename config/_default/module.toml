@@ -1,5 +1,0 @@
-[[imports]]
-path = "github.com/jpanther/congo/v2"
-
-baseURL = "https://your_domain.com/"
-languageCode = "en"
