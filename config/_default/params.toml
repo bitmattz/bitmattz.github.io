@@ -1,0 +1,8 @@
+homepage.layout = "profile"
+footer.showAppearanceSwitcher = true
+defaultAppearance = "light"
+article.sharingLinks = ["linkedin","reddit","x-twitter",]
+article.showBreadcrumbs = true
+article.showHeadingAnchors = true
+article.showTableOfContents = true
+article.showPagination = true
