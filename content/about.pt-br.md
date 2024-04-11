@@ -27,5 +27,5 @@ Costumo falar que somente depois da escola que realmente senti gosto por estudar
 Esse período até Julho de 2021, foi um momento de descoberta, aprendi a aprender e praticar minhas habilidades.
 
 ### **2021/ago - 2023**
-Em Agosto de 2021 tive duas grandes oportunidades e conquistas
+Em Agosto de 2021 tive duas grandes oportunidades e conquistas eba
 
