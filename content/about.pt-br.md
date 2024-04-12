@@ -55,7 +55,7 @@ Com o passar dos meses, participei da POC que comentei anteriormente na Vilt, qu
 ## **O que vem agora?** 
 Atualmente estou me preparando para ir para a Austrália em Maio, vou ficar 8 meses em Brisbane para realizar um curso de inglês na ILSC. Pretendo postar artigos aqui sobre a Austrália e o intercâmbio, e quando voltar, postar sobre meus novos projetos. 
 
-Bom, acho que ficou bem longo esse texto, mas realmente queria ter um lugar para poder postar mais sobre mim, em um currículo ou descrição de perfil em alguma rede social não ia dar para abordar tudo isso, sei que é pouco em relação do que está por vir, mas já é um cantinho especial para contar minha história.
+Eu realmente queria ter um lugar para poder postar mais sobre mim, mas em um currículo ou descrição de perfil em alguma rede social não daria para abordar tudo isso, tenho grandes planos para o que está por vir, mas já é um cantinho especial para contar minha história.
 
 
 
