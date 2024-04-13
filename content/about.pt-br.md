@@ -12,6 +12,10 @@ Olá! Eu sou Matheus Bitencourt e sou programador. Além de gostar de programaç
 Sempre considerei importante para o aprendizado criar projetos, mesmo que não tenham uma utilidade, então achei interessante criar um lugar para poder compartilhar meus projetos e ideias. 
 
 ## **Trajetória**
+{{< figure
+    src="img/ifsp.jpg"
+    alt="Ifsp"
+    >}}
 ### **2017**
 Iniciei meus estudos em programação em **2017**, no **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Salto**. Durante o primeiro ano aprendi **C**, conceitos de **Hardware**, **Sistemas Operacionais** e **Rede de computadores**. 
 
@@ -32,11 +36,19 @@ Até julho de 2021, foi uma fase de descobertas, onde aprendi a aprender e a pra
 Em agosto de 2021, alcancei dois marcos importantes: comecei a faculdade de **Análise e Desenvolvimento de Sistemas** na **FIAP** e também consegui a oportunidade de trabalhar como **Desenvolvedor** na **VILT**.
 
 #### **FIAP**
+{{< figure
+    src="img/fiap.jpg"
+    alt="Fiap"
+    >}}
 Na graduação, me aprofundei em conceitos já abordados no técnico, aplicando diretamente no projeto de **TCC**. Ao longo dos dois anos de estudo, participei de vários eventos na **FIAP**, onde tive a oportunidade de criar projetos, assistir a palestras e participar de desafios em grupo. 
 
 Durante meu **TCC**, tive a oportunidade de colaborar com uma equipe fantástica, onde aprendi muito sobre trabalho em equipe e gestão de projetos. Nosso **TCC** tinha como objetivo **desenvolver um aplicativo** para ajudar comunidades de agricultores familiares a promover e vender seus produtos. Fui responsável pelo **Backend**, optamos por usar **Java** porque já tinha experiência com essa linguagem, tanto da faculdade quanto do meu trabalho na **VILT**. Desenvolvi um **sistema de autenticação** utilizando **JWT**. Poderíamos ter usado uma biblioteca pronta como o **KeyCloak** para simplificar o processo, mas decidi fazer do zero para entender completamente como funcionava o **fluxo de autenticação e criptografia**. Foi, de longe, o projeto em que mais aprendi sobre **Backend**.
 
 #### **VILT**
+{{< figure
+    src="img/vilt.jpg"
+    alt="Vilt"
+    >}}
 Na **VILT**, comecei participando de workshops internos sobre o **CMS** da **Opentext** chamado **WEM (Web Experience Management)**. Lá, desenvolvi algumas aplicações de treinamento utilizando **Java** e **JSP** para criar páginas no **WEM**.
 
 Após concluir o período de treinamento, passei a integrar projetos em grandes clientes como desenvolvedor. Nesse processo, aprofundei meu conhecimento em **Java** e também adquiri experiência com banco de dados **Oracle**, servidores **Linux**, **React** e **Keycloak** para **autenticação** em áreas logadas. 
@@ -51,10 +63,16 @@ Em 2023, fui alocado para um novo cliente, onde também atuei como **suporte**. 
 Em 2024, além de trabalhar na **manutenção de código** e no **desenvolvimento de novas funcionalidades** em diversos projetos usando **WEM**, também aprendi outra ferramenta muito utilizada pela **VILT**: o **CMS** da **Adobe**, o **AEM (Adobe Experience Manager)**. Participei de uma **prova de conceito (POC)** para um grande cliente, onde trabalhei em equipe para criar um site completo utilizando várias ferramentas da **Adobe**, como **AEM**, **Target**, **Analytics**, **Workfront** e **Assets**. Fui responsável pela criação de componentes e páginas utilizando o **AEM**.
 
 
-### **2024**
-No começo de 2024, percebi que era hora de iniciar um novo capítulo na minha vida. Até então, cada fase da minha jornada durava cerca de três anos, então senti que estava na hora de começar uma nova era. Sempre tive o desejo de **conhecer novas culturas** e viver **experiências no exterior**, então decidi fazer um **intercâmbio para a Austrália**.
+
 
 ## **O que vem agora?** 
+{{< figure
+    src="img/australia.png"
+    alt="Australia"
+    >}}
+
+No começo de 2024, percebi que era hora de iniciar um novo capítulo na minha vida. Até então, cada fase da minha jornada durava cerca de três anos, então senti que estava na hora de começar uma nova era. Sempre tive o desejo de conhecer novas culturas e viver experiências no exterior, então decidi fazer um intercâmbio para a Austrália.
+
 Atualmente estou me preparando para ir para a **Austrália** em Maio, vou ficar 8 meses em **Brisbane** para realizar um **curso de inglês** na **ILSC**. Pretendo postar artigos aqui sobre a **Austrália** e o **intercâmbio**, e quando voltar, postar sobre meus **novos projetos**. 
 
 Eu realmente queria ter um lugar para poder postar mais sobre mim, mas em um currículo ou descrição de perfil em alguma rede social não daria para abordar tudo isso, tenho grandes planos para o que está por vir, mas já é um cantinho especial para contar minha história.
