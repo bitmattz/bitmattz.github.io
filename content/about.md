@@ -3,6 +3,11 @@
 #+lastmod: [2024-03-26 ter]
 #+tags[]: about
 
+{{< figure
+    src="img/cyberpunk2077.png"
+    alt="Cyberpunk 2077"
+    >}}
+
 > I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success . . . Such emotions make a man forget food, sleep, friends, love, everything. (Nikola Tesla)
 
 

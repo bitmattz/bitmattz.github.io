@@ -3,6 +3,10 @@
 #+lastmod: [2024-03-26 ter]
 #+tags[]: about
 
+{{< figure
+    src="img/cyberpunk2077.png"
+    alt="Cyberpunk 2077"
+    >}}
 > Não creio que haja uma emoção mais intensa para um inventor do que ver suas criações funcionando. Essa emoção faz você esquecer de comer, de dormir, de tudo. (Nikola Tesla)
 
 
